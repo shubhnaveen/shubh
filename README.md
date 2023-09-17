@@ -1,3 +1,39 @@
+<!-- Title -->
+# Hello, I'm Shubhlaxmi 👋
+
+## About Me
+
+I'm a passionate DevOps Engineer with certifications in Red Hat OpenStack, Certified Kubernetes Administrator (CKA), and Google Associate Cloud Engineer. I thrive in the world of Linux, OpenShift, Ansible, Terraform, and Jenkins. My goal is to make complex systems work seamlessly through automation and cloud technologies.
+
+I also share my knowledge and experiences through my articles on (https://shubhlaxmi.hashnode.dev). Explore my blog to learn more about DevOps, cloud computing, and best practices.
+
+## Certifications
+
+- Red Hat OpenStack Certified
+- Certified Kubernetes Administrator (CKA)
+- Google Associate Cloud Engineer
+
+## Skills
+
+- **Operating Systems:** Linux (Ubuntu, CentOS, RHEL)
+- **Containerization:** Docker, Kubernetes, OpenShift
+- **Infrastructure as Code:** Terraform, Ansible
+- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins
+- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)
+- **Version Control:** Git, GitHub
+
+
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/shubhlaxmi-shukla
+- Email: shubhlaxmi.iitr@gmail.com
+
+Feel free to reach out for collaborations, questions, or discussions!
+
+---
+
+<!-- Add any additional sections, badges, or custom styles as needed -->
 <h1 align="center">Hi 👋, I'm shubhlaxmi shukla</h1>
 <h3 align="center">A cloudsmith from India</h3>
 
